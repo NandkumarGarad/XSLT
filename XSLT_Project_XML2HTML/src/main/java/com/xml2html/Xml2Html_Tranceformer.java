@@ -6,9 +6,9 @@ import java.io.File;
 public class Xml2Html_Tranceformer {
 
     public static void main(String[] args){
-         String xslFile="src/main/com/xml2html/studentXml2Html.xsl";
-         String input_Xml_file = "src/main/com/xml2html/students.xml";
-         String output_html = "src/main/com/xml2html/Student.html";
+         String xslFile="src/main/java/com/xml2html/studentXml2Html.xsl";
+         String input_Xml_file = "src/main/java/com/xml2html/students.xml";
+         String output_html = "src/main/java/com/xml2html/Student.html";
 
         StreamSource xslcode  = new StreamSource(new File(xslFile));
         StreamSource input = new StreamSource(new File(input_Xml_file));
