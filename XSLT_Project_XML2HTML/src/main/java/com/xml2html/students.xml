@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student>
+        <name> Sujit Pawar </name>
+        <id> 001 </id>
+        <branch> IT </branch>
+        <cgpa> 9 </cgpa>
+    </student>
+    <student>
+        <name> Vishal Hole </name>
+        <id> 004 </id>
+        <branch> Computer </branch>
+        <cgpa> 7 </cgpa>
+    </student>
+    <student>
+        <name> Nagesh kakade </name>
+        <id> 006 </id>
+        <branch> IT </branch>
+        <cgpa> 10 </cgpa>
+    </student>
+</class>
